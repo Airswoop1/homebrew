@@ -44,7 +44,7 @@ class AwsElasticbeanstalk < Formula
   end
 
   resource "texttable" do
-    url "https://pypi.python.org/packages/source/t/texttable/texttable-0.8.4.tar.gz"
+    url "https://pypi.python.org/packages/source/t/texttable-fixed/texttable-fixed-0.8.3.tar.gz"
     sha256 "8587b61cb6c6022d0eb79e56e59825df4353f0f33099b4ae3bcfe8d41bd1702e"
   end
 
